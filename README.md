@@ -7,7 +7,7 @@
   <p>
     <a href="https://www.tatweer-international.com/"><img src="https://img.shields.io/badge/Website-tatweer--international.com-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
     <a href="mailto:info@tatweer-international.com"><img src="https://img.shields.io/badge/Email-info%40tatweer--international.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/company/tatweer-international"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   </p>
 
   <p>
