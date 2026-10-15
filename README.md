@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TatweerInternational2010/TatweerInternational2010/main/profile/logo.png" alt="Tatweer International" width="160" onerror="this.src='https://www.tatweer-international.com/logo.png'" />
+  <img src="https://www.tatweer-international.com/_next/image?url=%2Fimages%2Flogo.png&w=1920&q=75" alt="Tatweer International" width="160" onerror="this.src='https://www.tatweer-international.com/logo.png'" />
   
   <h1>Tatweer International for Learning Technology</h1>
   <p><strong>Innovating Software. Leading the Future of Learning & Business.</strong></p>
